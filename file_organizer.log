@@ -1,0 +1,52 @@
+2024-11-16 18:24:04,714 - INFO - Email sent successfully.2024-11-17 20:37:25,095 - INFO - Moved file from downloads\APPSEC_COLLVAL_18102024.csv to organized_downloads\2024-11-17\CSV\APPSEC_COLLVAL_18102024.csv
+2024-11-17 20:37:25,095 - INFO - Moved file from downloads\AUB_2024197_18102024.csv to organized_downloads\2024-11-17\CSV\AUB_2024197_18102024.csv
+2024-11-17 20:37:25,125 - INFO - Extracted downloads\BhavCopy_NSE_CM_0_0_0_20241018_F_0000.csv.zip to organized_downloads\2024-11-17\EXTRACTED
+2024-11-17 20:37:25,144 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\BhavCopy_NSE_CM_0_0_0_20241018_F_0000.csv to organized_downloads\2024-11-17\CSV\BhavCopy_NSE_CM_0_0_0_20241018_F_0000.csv
+2024-11-17 20:37:25,144 - INFO - Moved file from downloads\block.csv to organized_downloads\2024-11-17\CSV\block.csv
+2024-11-17 20:37:25,144 - INFO - Moved file from downloads\bulk.csv to organized_downloads\2024-11-17\CSV\bulk.csv
+2024-11-17 20:37:25,144 - INFO - Moved file from downloads\circuit_18102024.csv to organized_downloads\2024-11-17\CSV\circuit_18102024.csv
+2024-11-17 20:37:25,157 - INFO - Moved file from downloads\CMVOLT_18102024.csv to organized_downloads\2024-11-17\CSV\CMVOLT_18102024.csv
+2024-11-17 20:37:25,158 - INFO - Moved file from downloads\CM_52_wk_High_low_18102024.csv to organized_downloads\2024-11-17\CSV\CM_52_wk_High_low_18102024.csv
+2024-11-17 20:37:25,158 - INFO - Moved file from downloads\CM_Latency_stats17102024.csv to organized_downloads\2024-11-17\CSV\CM_Latency_stats17102024.csv
+2024-11-17 20:37:25,158 - INFO - Moved file from downloads\corpbond181024.csv to organized_downloads\2024-11-17\CSV\corpbond181024.csv
+2024-11-17 20:37:25,158 - INFO - Moved file from downloads\C_STT_18102024.csv to organized_downloads\2024-11-17\CSV\C_STT_18102024.csv
+2024-11-17 20:37:25,158 - INFO - Moved file from downloads\C_STT_IND_18102024.csv to organized_downloads\2024-11-17\CSV\C_STT_IND_18102024.csv
+2024-11-17 20:37:25,173 - INFO - Moved file from downloads\C_VAR1_18102024_1.DAT to organized_downloads\2024-11-17\DAT\C_VAR1_18102024_1.DAT
+2024-11-17 20:37:25,173 - INFO - Moved file from downloads\C_VAR1_18102024_2.DAT to organized_downloads\2024-11-17\DAT\C_VAR1_18102024_2.DAT
+2024-11-17 20:37:25,173 - INFO - Moved file from downloads\C_VAR1_18102024_3.DAT to organized_downloads\2024-11-17\DAT\C_VAR1_18102024_3.DAT
+2024-11-17 20:37:25,173 - INFO - Moved file from downloads\C_VAR1_18102024_4.DAT to organized_downloads\2024-11-17\DAT\C_VAR1_18102024_4.DAT
+2024-11-17 20:37:25,173 - INFO - Moved file from downloads\C_VAR1_18102024_5.DAT to organized_downloads\2024-11-17\DAT\C_VAR1_18102024_5.DAT
+2024-11-17 20:37:25,189 - INFO - Moved file from downloads\C_VAR1_18102024_6.DAT to organized_downloads\2024-11-17\DAT\C_VAR1_18102024_6.DAT
+2024-11-17 20:37:25,189 - INFO - Moved file from downloads\Daily_Settlement_Statistics_18102024.doc to organized_downloads\2024-11-17\OTHERS\Daily_Settlement_Statistics_18102024.doc
+2024-11-17 20:37:25,189 - INFO - Moved file from downloads\eq_band_changes_18102024.csv to organized_downloads\2024-11-17\CSV\eq_band_changes_18102024.csv
+2024-11-17 20:37:25,195 - INFO - Moved file from downloads\FCM_INTRM_BC18102024.DAT to organized_downloads\2024-11-17\DAT\FCM_INTRM_BC18102024.DAT
+2024-11-17 20:37:25,195 - INFO - Moved file from downloads\MA181024.csv to organized_downloads\2024-11-17\CSV\MA181024.csv
+2024-11-17 20:37:25,195 - INFO - Moved file from downloads\MF_VAR_18102024.csv to organized_downloads\2024-11-17\CSV\MF_VAR_18102024.csv
+2024-11-17 20:37:25,221 - INFO - Extracted downloads\mrg_trading_171024.zip to organized_downloads\2024-11-17\EXTRACTED
+2024-11-17 20:37:25,221 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\mrg_trading_17102024.csv to organized_downloads\2024-11-17\CSV\mrg_trading_17102024.csv
+2024-11-17 20:37:25,221 - INFO - Moved file from downloads\MTO_18102024.DAT to organized_downloads\2024-11-17\DAT\MTO_18102024.DAT
+2024-11-17 20:37:25,221 - INFO - Moved file from downloads\NSE_CM_security_18102024.csv.gz to organized_downloads\2024-11-17\OTHERS\NSE_CM_security_18102024.csv.gz
+2024-11-17 20:37:25,270 - INFO - Extracted downloads\PR181024.zip to organized_downloads\2024-11-17\EXTRACTED
+2024-11-17 20:37:25,270 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\An181024.txt to organized_downloads\2024-11-17\OTHERS\An181024.txt
+2024-11-17 20:37:25,280 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\Bc181024.csv to organized_downloads\2024-11-17\CSV\Bc181024.csv
+2024-11-17 20:37:25,280 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\bh181024.csv to organized_downloads\2024-11-17\CSV\bh181024.csv
+2024-11-17 20:37:25,283 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\Bm181024.txt to organized_downloads\2024-11-17\OTHERS\Bm181024.txt
+2024-11-17 20:37:25,283 - WARNING - Duplicate file found and deleted: organized_downloads\2024-11-17\EXTRACTED\corpbond181024.csv
+2024-11-17 20:37:25,283 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\etf181024.csv to organized_downloads\2024-11-17\CSV\etf181024.csv
+2024-11-17 20:37:25,283 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\Gl181024.csv to organized_downloads\2024-11-17\CSV\Gl181024.csv
+2024-11-17 20:37:25,283 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\HL181024.csv to organized_downloads\2024-11-17\CSV\HL181024.csv
+2024-11-17 20:37:25,283 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\MCAP18102024.csv to organized_downloads\2024-11-17\CSV\MCAP18102024.csv
+2024-11-17 20:37:25,283 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\Pd181024.csv to organized_downloads\2024-11-17\CSV\Pd181024.csv
+2024-11-17 20:37:25,283 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\PE_181024.csv to organized_downloads\2024-11-17\CSV\PE_181024.csv
+2024-11-17 20:37:25,295 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\Pr181024.csv to organized_downloads\2024-11-17\CSV\Pr181024.csv
+2024-11-17 20:37:25,295 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\Readme.txt to organized_downloads\2024-11-17\OTHERS\Readme.txt
+2024-11-17 20:37:25,299 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\sme181024.csv to organized_downloads\2024-11-17\CSV\sme181024.csv
+2024-11-17 20:37:25,301 - INFO - Moved file from organized_downloads\2024-11-17\EXTRACTED\Tt181024.csv to organized_downloads\2024-11-17\CSV\Tt181024.csv
+2024-11-17 20:37:25,303 - INFO - Moved file from downloads\REG_IND181024.csv to organized_downloads\2024-11-17\CSV\REG_IND181024.csv
+2024-11-17 20:37:25,303 - INFO - Moved file from downloads\sec_bhavdata_full_18102024.csv to organized_downloads\2024-11-17\CSV\sec_bhavdata_full_18102024.csv
+2024-11-17 20:37:25,313 - INFO - Moved file from downloads\sec_list_18102024.csv to organized_downloads\2024-11-17\CSV\sec_list_18102024.csv
+2024-11-17 20:37:25,332 - INFO - Moved file from downloads\series_change.csv to organized_downloads\2024-11-17\CSV\series_change.csv
+2024-11-17 20:37:25,335 - INFO - Moved file from downloads\ShortSelling.csv to organized_downloads\2024-11-17\CSV\ShortSelling.csv
+2024-11-17 20:37:25,336 - WARNING - Duplicate file found and deleted: downloads\sme181024.csv
+2024-11-17 20:37:25,340 - INFO - Moved file from downloads\sme_bands_complete_18102024.csv to organized_downloads\2024-11-17\CSV\sme_bands_complete_18102024.csv
+2024-11-17 20:37:29,813 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724771c0d67sm4509725b3a.118 - gsmtp')
